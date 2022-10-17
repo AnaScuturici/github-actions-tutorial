@@ -5,4 +5,4 @@ on:
 jobs:
   build: 
     name: post welcome comment
-    runs-on: ubintu-latest
+    runs-on: ubuntu-latest
